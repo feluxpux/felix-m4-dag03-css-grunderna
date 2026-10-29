@@ -58,3 +58,10 @@ article img {
     max-width: 100%;
     height: auto;
 }
+
+/*Steg 6*/
+main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 24px;
+}
