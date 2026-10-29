@@ -7,3 +7,16 @@
    TODO 6: main (centrerat, max-bredd)
    TODO 7: .knapp
 */
+
+/* Padding och border räknas in i boxens bredd och höjd */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+/*Steg 1 och 2*/
+body {
+    background-color: #fffaf3;
+    margin: 0;
+}
