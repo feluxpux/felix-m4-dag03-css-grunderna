@@ -20,3 +20,20 @@ body {
     background-color: #fffaf3;
     margin: 0;
 }
+/*steg 3*/
+header {
+    background-color: #5b3a29;
+    color: white;
+    padding: 16px 24px;
+}
+
+footer {
+    background-color: #2b1c14;
+    color: white;
+    padding: 16px 24px;
+}
+
+header a,
+footer a {
+    color: white;
+}
